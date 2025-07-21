@@ -1,0 +1,1 @@
+ogrencı.kayıt.uygulaması.OgrTekYonluDogrusalListe
